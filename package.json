@@ -1,0 +1,14 @@
+{
+  "name": "presents",
+  "version": "1.0.0",
+  "description": "NPM module to parse presents-JSON slideshows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slidehow"
+  ],
+  "author": "Lars Willighagen",
+  "license": "MIT"
+}
